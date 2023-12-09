@@ -20,7 +20,23 @@ Private clouds are loosely defined as  environments solely dedicated to a single
 ## Hybrid clouds
 A hybrid cloud is a seemingly single IT environment created from multiple environments connected through local area networks (LANs), wide area networks (WANs), virtual private networks (VPNs), and/or APIs.
 For Example
-At least one private cloud and at least one public cloud
-Two or more private clouds
-Two or more public clouds
-A bare-metal or virtual environment connected to at least one public cloud or private cloud
+1. At least one private cloud and at least one public cloud
+2. Two or more private clouds
+3. Two or more public clouds
+4. A bare-metal or virtual environment connected to at least one public cloud or private cloud
+## Cloud services
+# 1. Infrastructure as a Service (IaaS
+# 2. Platform as a Service (PaaS)
+# 3. Software as a Service (SaaS)
+
+##  IaaS
+
+IaaS delivers on-demand infrastructure resources, such as compute, storage, networking, and virtualization. With IaaS, the service provider owns and operates the infrastructure, but customers will need to purchase and manage software, such as operating systems, middleware, data, and applications.
+
+## PaaS
+
+PaaS delivers and manages hardware and software resources for developing, testing, delivering, and managing cloud applications. Providers typically offer middleware, development tools, and cloud databases within their PaaS offerings.
+
+
+## Saas
+SaaS provides a full application stack as a service that customers can access and use. SaaS solutions often come as ready-to-use applications, which are managed and maintained by the cloud service provider.
