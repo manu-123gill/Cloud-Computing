@@ -3,13 +3,13 @@ Cloud storage is for data and cloud computing is for processes. cloud storage si
 storage space, development IDE, database,computing power and complete software applications. Cloud Computing on-demand avaliablility of the computer system via the internet. The cloud is not a physical entity but instead is a vast network of remote services around the globe which are together and meant to operate as a single user. In a bussiness way your team meambers can view and share information easily and secuerly across a cloud-based plateform. Some 
 cloud based services even provided collaboration social space to connect employess your organisation therefore increase interest.
 ## Example 
-gmail, facebook, skpe and others.
+gmail, facebook, skype and others.
 It stored data on cloud and you cav access them on any computer. There  is a no chance of data loss.
 
 ## Types of Cloud Computing
-1.Public Cloud 
-2. private 
-3. Hybrid
+# 1.Public Cloud 
+# 2. private 
+# 3. Hybrid
 
 ## Public clouds
 Public clouds are created from IT infrastructure not owned by the end user. Some of the largest public cloud providers include Alibaba Cloud, Amazon Web Services (AWS), Google Cloud, IBM Cloud, and Microsoft Azure.
