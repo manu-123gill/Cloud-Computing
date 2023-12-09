@@ -1,1 +1,3 @@
-
+##  Cloud Computing
+Cloud storage is for data and cloud computing is for processes. cloud storage simple holds your data while cloud computing allow you to do things with the data.Cloud computing in a simple words saving or accesing your data and programs over the internet. Cloud computing making computer infrastructure and services avaliable as per ned using internet.In cloud infrastructure include 
+storage space, development IDE, database,computing power and complete software applications. Cloud Computing on-demand avaliablility of the computer system via the internet. The cloud is not a physical entity but instead is a vast network of remote services around the globe which are together and meant to operate as a single user.
